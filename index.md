@@ -3,5 +3,6 @@
 * Conventions for C#
   * [Naming Guidelines](./csharp/namingGuidelines.md)
   * [Coding Style](./csharp/codingStyle.md)
+  * [Helper class and method](./csharp/helperClass.md)
 * [EditorConfig](./editorConfig.md)
 * [Unity Script Templates](./unity/scriptTemplates.md)
