@@ -59,13 +59,14 @@ public int FirstName;
 
 ## 꼭 필요한 경우가 아니면 this. 를 사용하지 않는다.
 
-## Namespace imports 는 System.* 을 먼저 선언하고 다른 Namespace 들의 경우 알파벳 순으로 정렬한다.
+## Namespace imports 는 알파벳 순으로 정렬한다.
 
 ```c#
+using CocoonGames.Core;
+using CocoonGames.Core.ComponentManagement;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using CocoonGames.Egg;
 using UnityEngine;
 
 namespace CocoonGames.Egg.UI
